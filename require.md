@@ -4,7 +4,7 @@
 
 发布日期：2026 年 5 月 17 日
 
-技术栈约束：前端 Vue3+Vue Draggable，后端 Spring Boot3+Spring AI，数据库 PostgreSQL，WebSocket 实时同步，JWT 认证
+技术栈约束：前端 Vue3+Vue Draggable，后端 Spring Boot3+Spring AI，数据库 mysql，WebSocket 实时同步，JWT 认证
 
 1\. 项目背景与目标
 
